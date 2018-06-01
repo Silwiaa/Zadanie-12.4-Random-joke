@@ -1,7 +1,7 @@
 // SET RANDOME JOKE BY CLICKING BUTTON
 var url = 'http://api.icndb.com/jokes/random',
     button = document.getElementById('get-joke');
-button.addEventListener('click', function(){
+button.addEventListener('click', function() {
   getJoke();
 });
 
