@@ -1,1 +1,37 @@
+body {
+    background-color: #F1F1F1;
+}
 
+.container {
+    background-image: url(http://br.web.img2.acsta.net/newsv7/17/08/25/21/39/112463.jpg);
+    background-size: cover;
+    height: 450px;
+    width: 900px;
+    margin: 60px auto;
+    border: solid 2px #DEA93C;  
+}
+
+#joke {
+    height: 80px;
+    width: 800px;
+    margin: -180px auto;
+    background-color: #20292A;
+    opacity: 0.9;
+    font-size: 20px;
+    color: #F1F1F1;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
+
+#get-joke {
+    margin: 230px 100px;
+    width: 180px;
+    height: 40px;
+    border-radius: 15%;
+    background-color: #DEA93C;
+    font-size: 20px;
+    color: #F1F1F1;
+    font-weight: bold;
+    
+}
